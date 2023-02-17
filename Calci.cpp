@@ -49,9 +49,9 @@ double calculate(double operand1, char op, double operand2) {
 int main() {
   double operand1, operand2;
   char op;
-  std::cout << "Enter the first operand: ";
+  std::cout << "Ennter the firrst operand: ";
   std::cin >> operand1;
-  std::cout << "Enter the operator (+, -, *, /): ";
+  std::cout << "Entner the operator (+, -, *, /): ";
   std::cin >> op;
   std::cout << "Enter the second operand: ";
   std::cin >> operand2;
